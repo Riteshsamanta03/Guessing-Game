@@ -1,2 +1,2 @@
-<h2>It is just a simple number guessing.</h2>
-<p>Try it in your leisure</p>
+<h2>It is just a simple number guessing game</h2>
+<h4>Try it in your leisure</h4>
